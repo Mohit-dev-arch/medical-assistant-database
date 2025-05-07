@@ -27,6 +27,9 @@ MedicalAssistant/
 ├── README.md
 - Validates filename and filetype for CSV output.
 
+```
+
+
 ## Requirements
 
 Java 8 or later
@@ -35,26 +38,29 @@ symptom.txt and disease.txt files should be present in the data/ directory.
 
 Each disease entry in disease.txt must list required symptoms.
 
-Usage
+
+## Usage
 1.compile java files:
+
 javac -d out src/*.java
 
 2.run the program:
+
 java -cp out MedicalAssistant
 
 3.The program will:
 
 Allow entering symptoms for a patient.
-
 Match them against known diseases.
-
 Export the result into a CSV file.
 
-Sample methods:
+## Sample Methods
 void addSymptom(String symptom) throws UnrecognizedSymptomException
 String[] diagnosis() throws UnrecognizedDiseaseException
 
-Exception Handling:
+* Validates filename and filetype for CSV output.
+
+## Exception Handling
 UnrecognizedSymptomException - thrown if a symptom is not listed in symptom.txt.
 
 UnrecognizedDiseaseException - thrown if diagnosis does not match any disease from disease.txt.
