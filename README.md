@@ -1,4 +1,4 @@
-# Medical Assistant - dbms Project
+# Medical Assistant - DBMS Project
 
 **Medical Assistant** is a Java application that simulates a simple medical diagnosis assistant. It uses symptom and disease databases to identify possible diagnoses based on user input and exports patient records to a CSV file.
 
