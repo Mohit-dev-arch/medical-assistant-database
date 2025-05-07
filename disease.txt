@@ -1,0 +1,71 @@
+Flu: fever, cough, fatigue, sore throat, body ache
+Migraine: headache, nausea, vomiting
+Food Poisoning: vomiting, diarrhea, abdominal pain, nausea
+Covid-19: fever, cough, sore throat, shortness of breath, fatigue, loss of taste, loss of smell
+Common Cold: cough, sore throat, runny nose, sneezing, headache
+Pneumonia: cough, chest pain, shortness of breath, fever, fatigue
+Chronic Fatigue Syndrome: fatigue, joint pain, headaches, sleep disturbances
+Tuberculosis: cough, chest pain, fever, weight loss, night sweats
+Asthma: shortness of breath, wheezing, chest tightness, coughing
+Heart Attack: chest pain, shortness of breath, nausea, dizziness, sweating
+Gastroenteritis: nausea, vomiting, diarrhea, abdominal pain, fever
+Diabetes: increased thirst, frequent urination, fatigue, blurred vision, weight loss
+Arthritis: joint pain, swelling, stiffness, difficulty moving joints
+Hepatitis: yellowing of the skin, abdominal pain, fatigue, loss of appetite
+Anemia: fatigue, dizziness, shortness of breath, pale skin
+Stroke: sudden numbness, difficulty speaking, loss of balance, vision problems
+Cancer: unexplained weight loss, fatigue, pain, swelling, skin changes
+High Blood Pressure: headache, dizziness, shortness of breath, chest pain
+Osteoporosis: bone fractures, back pain, loss of height, stooped posture
+Kidney Disease: fatigue, swelling, nausea, pain in the back, frequent urination
+Liver Disease: jaundice, abdominal pain, loss of appetite, swelling
+Allergies: sneezing, itchy eyes, runny nose, cough, skin rashes
+Panic Attack: shortness of breath, chest tightness, dizziness, rapid heart rate
+Rheumatoid Arthritis: joint pain, swelling, morning stiffness, fever
+Multiple Sclerosis: fatigue, difficulty walking, blurred vision, dizziness
+Epilepsy: seizures, confusion, loss of consciousness
+Parkinson’s Disease: tremors, slow movement, stiffness, difficulty walking
+COPD: cough, shortness of breath, wheezing, chest tightness
+Gout: joint pain, swelling, redness, tenderness, fever
+Mononucleosis: fever, sore throat, swollen lymph nodes, fatigue
+Tonsillitis: sore throat, fever, difficulty swallowing, swollen tonsils
+Celiac Disease: diarrhea, bloating, fatigue, weight loss, abdominal pain
+Dengue: fever, headache, joint pain, muscle pain, nausea, vomiting, skin rash
+Typhoid: fever, stomach pain, weakness, headache, loss of appetite, diarrhea
+Appendicitis: stomach pain, nausea, vomiting, loss of appetite, fever
+IBS: stomach pain, bloating, diarrhea, constipation
+Gallstones: stomach pain, nausea, vomiting, jaundice, indigestion
+UTI: frequent urination, burning sensation, abdominal pain, fever, cloudy urine
+Peptic Ulcer: stomach pain, nausea, vomiting, bloating, weight loss
+Gastritis: stomach pain, indigestion, nausea, vomiting, loss of appetite
+Acid Reflux: heartburn, stomach pain, chest pain, sore throat, regurgitation
+Constipation: stomach pain, bloating, difficulty passing stool
+Heatstroke: high fever, dry skin, dizziness, confusion, headache
+Dehydration: dizziness, fatigue, dry mouth, decreased urination, headache
+Measles: fever, cough, runny nose, skin rash, red eyes
+Chickenpox: fever, rash, fatigue, itchy skin, headache
+Malaria: fever, chills, headache, nausea, vomiting, muscle pain
+Jaundice: yellowing of the skin, fatigue, dark urine, abdominal pain
+Swine Flu: fever, chills, cough, sore throat, body ache
+Zika Virus: fever, rash, joint pain, red eyes, muscle pain
+
+# Female-Specific Diseases
+PCOS: irregular periods, weight gain, acne, excessive hair growth, infertility
+Endometriosis: pelvic pain, painful periods, infertility, fatigue, bloating
+Cervical Cancer: abnormal bleeding, pelvic pain, watery discharge, fatigue
+Ovarian Cyst: pelvic pain, bloating, irregular periods, nausea
+Menstrual Cramps: lower abdominal pain, fatigue, mood changes
+Menopause: hot flashes, night sweats, mood swings, irregular periods
+
+# Male-Specific Diseases
+Prostate Cancer: difficulty urinating, blood in urine, pelvic discomfort, erectile dysfunction
+Erectile Dysfunction: difficulty getting erection, reduced sexual desire
+Enlarged Prostate: frequent urination, weak urine stream, difficulty starting urination
+Testicular Torsion: sudden scrotal pain, swelling, nausea, abdominal pain
+Low Testosterone: fatigue, low sex drive, weight gain, mood changes
+Male Infertility: low sperm count, erectile dysfunction, reduced facial hair
+
+
+
+
+

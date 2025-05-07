@@ -1,0 +1,47 @@
+fever
+cough
+headache
+fatigue
+nausea
+vomiting
+rash
+chest pain
+sore throat
+dizziness
+runny nose
+sneezing
+shortness of breath
+body ache
+chills
+sweating
+loss of appetite
+diarrhea
+constipation
+abdominal pain
+joint pain
+skin rashes
+swelling
+bloody stool
+difficulty breathing
+sore muscles
+yellowing of the skin
+loss of taste
+loss of smell
+earache
+night sweats
+swollen lymph nodes
+back pain
+itchy eyes
+weight loss
+bleeding gums
+tremors
+difficulty swallowing
+painful urination
+heart palpitations
+chest tightness
+feeling faint
+dehydration
+dry mouth
+skin discoloration
+feeling of fullness
+pain in legs
