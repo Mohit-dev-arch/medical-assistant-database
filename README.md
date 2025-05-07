@@ -58,7 +58,6 @@ Export the result into a CSV file.
 void addSymptom(String symptom) throws UnrecognizedSymptomException
 String[] diagnosis() throws UnrecognizedDiseaseException
 
-* Validates filename and filetype for CSV output.
 
 ## Exception Handling
 UnrecognizedSymptomException - thrown if a symptom is not listed in symptom.txt.
